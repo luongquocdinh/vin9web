@@ -12,7 +12,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Quicksand", Arial, sans-serif;
+  font-family: Arial,Helvetica,sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
@@ -1253,3 +1253,9 @@ body.offcanvas {
     height: inherit !important;
     float: left;
     padding-top: 30px; } }
+
+.radiuse {
+    border-radius: 0px 0px;
+    border: 1px solid #73AD21;
+    padding: 20px;
+}

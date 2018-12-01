@@ -15,9 +15,55 @@
                         </div>
                     </div>
                 </li>
+
+                <li style="background-image: url({{ asset('image') }}/vinpearl/slide-1.jpg);">
+                    <div class="overlay"></div>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                                <div class="slider-text-inner">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li style="background-image: url({{ asset('image') }}/vinpearl/slide-2.jpg);">
+                    <div class="overlay"></div>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                                <div class="slider-text-inner">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
             </ul>
         </div>
     </aside>
+
+    <div id="overview" class="colorlib-about">
+        <div class="colorlib-narrow-content" style="text-align:justify;font-size:16px;">
+            <div class="col-sm-4 radiuse">
+                <p style="text-align:center;"><img src="http://vinpearlcondotelphuquoc.com/upload/images/icon/dautu.png" alt="GÀ ĐỂ TRỨNG VÀNG"><br>
+                <span><strong class="mauchudo">SHOPHOUSE - GÀ ĐẺ TRỨNG VÀNG</strong></span></p>
+                <p>Với số lượng lên đến 19.000 phòng khách sạn tương ứng khoảng 30-40 nghìn lượt du khách mỗi ngày, vì vậy <strong>đầu tư Shophoue Vinpearl chắc chắn sẽ sinh lời cao</strong>.</p>
+            </div> 
+            <div class="col-sm-4 radiuse">
+                <p style="text-align:center;"><img src="http://vinpearlcondotelphuquoc.com/upload/images/icon/bank.png" alt="bank"><br>
+                <span><strong class="mauchudo">CHÍNH SÁCH NGÂN HÀNG</strong></span></p>
+                <p>Ngân hàng Techcombank hỗ trợ cho vay lên tới 65% giá trị căn Shophouse, với mức <strong>ưu đãi lãi suất 0%, ân hạn nợ gốc và Miễn Phí trả nợ trước hạn</strong> trong 24 tháng đầu (dự kiến).</p>
+            </div> 
+            <div class="col-sm-4 radiuse">
+                <p style="text-align:center;"><img src="http://vinpearlcondotelphuquoc.com/upload/images/icon/casino.png" alt="casino vinpearl condotel phú quốc"><br>
+                <span><strong class="mauchudo">LIỀN KỀ VINPEARL CASINO</strong></span></p>
+                <p>Sòng Bài Casino Phú Quốc không chỉ là "thỏi nam châm hút" khách trong nước mà còn <strong>thu hút một lượng du khách vô cùng lớn</strong> từ các nước trên Thế Giới.</p>
+            </div> 
+        </div>
+    </div>
 
     <div id="overview" class="colorlib-about">
         <div class="colorlib-narrow-content">
@@ -49,20 +95,20 @@
                             <div class="panel-body">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <p>Tên dự án: Vinpearl Condotel & Shophouse Phú Quốc.</p>
-                                        <p>Vị trí: Bãi Dài, Phú Quốc, Kiên Giang, Việt Nam.</p>
-                                        <p>Chủ đầu tư: CTCP đầu tư LDG (LDG GROUP).</p>
-                                        <p>Quản lý vận hành: Vinpearl.</p>
-                                        <p>Tổng mức đầu tư: Dự kiến 8.000 tỷ đồng.</p>
-                                        <p>Thời gian hoàn thành: 2022.</p>
+                                        <p>Tên dự án: Vinpearl Grand World Phú Quốc.</p>
+                                        <p>Vị trí: Bãi Dài, xã Gành Dầu, huyện Phú Quốc, tỉnh Kiên Giang.</p>
+                                        <p>Chủ đầu tư: Tập đoàn Vingroup.</p>
+                                        <p>Tổng diện tích: 85ha.</p>
+                                        <p>Loại sản phẩm: Shophouse, Condotel và Mini Hotel.</p>
+                                        <p>Số lượng căn: Khoảng 1000 Shophouse, 10000 Condotel và ... Mini hotel.</p>
                                     </div>
                                     <div class="col-md-6">
-                                        <p>Quy mô: 87ha.</p>
-                                        <p>Diện tích sàn xây dựng: 433.092m2</p>
-                                        <p>Shophouse Villas: 182,335m2.</p>
-                                        <p>Loại hình: Shophouse & condotel, mini hotel</p>
-                                        <p>Tổng số căn: 10.000 condotel & 1000 Shophouse</p>
-                                        <p>Hình thức sở hữu: 70 năm</p>
+                                        <p>Shophouse: Diện tích 80 – 120m², Cao 3 – 5 tầng. Tự do khai thác kinh doanh.</p>
+                                        <p>Condotel: Gồm 19 tòa, diện tích từ 27m² – 43m², tiêu chuẩn 2 – 5 sao, cao từ 8 – 12 tầng. Cam kết thuê lại với lợi nhuận cao & lâu dài.</p>
+                                        <p>Mini Hotel: Cao 12 tầng, nằm ngay đầu đường vào Safari, diện tích 500 – 1.000m². Hoàn thiện tùy chọn, kinh doanh tự do.</p>
+                                        <p>Pháp lý & Sở hữu: Sở hữu sổ hồng lên đến 70 năm.</p>
+                                        <p>Khởi công: đang cập nhật.</p>
+                                        <p>Bàn giao: đang cập nhật.</p>
                                     </div>
                                 </div>
                             </div>
@@ -70,6 +116,10 @@
                     </div>
                 </div>
             </div>
+
+            <p>
+                <iframe align="middle" frameborder="0" height="480px" scrolling="no" src="https://www.youtube.com/embed/VXs8l_mXhmM?rel=0" width="100%"></iframe>
+            </p>
         </div>
     </div>
 
@@ -104,54 +154,52 @@
                     <h2 class="colorlib-heading">TIỆN ÍCH KHU SHOPHOUSE VINPEARL PHÚ QUỐC</h2>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-                        <div class="services-img" style="background-image: url({{ asset('image') }}/vinpearl/ho-boi.jpg)"></div>
-                        <div class="desc">
-                            <h3>Bể bơi ngoài trời</h3>
-                        </div>
-                    </a>
+            
+            <div class="row" style="text-align:center;">
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-casino.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Casino đẳng cấp Quốc Tế</strong></p>
+                    <p style="text-align:justify;">Casino Phú Quốc là một trong những điểm nhấn đẳng cấp và khác biệt với những dự án biệt thự biển nghỉ dưỡng khác. Việc xây dựng Casino sẽ là nguồn hút du khách dồi dào cả trong và ngoài nước.</p>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-                        <div class="services-img" style="background-image: url({{ asset('image') }}/vinpearl/restaurant.jpg)"></div>
-                        <div class="desc">
-                            <h3>Nhà hàng sang trọng</h3>
-                        </div>
-                    </a>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-land.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Khu vui chơi giải trí Vinpearl Land</strong></p>
+                    <p style="text-align:justify;">Thiên đường vui chơi giải trí với đầy đủ các hoạt động vui chơi thú vị, xa xỉ (thủy cung, công viên nước, cối xay gió, đĩa quay siêu tốc,…) giúp quý khách cùng gia đình tận hưởng những thời khắc vui vẻ nhất.</p>
+                    </div>
+                    <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-safari.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Công viên Chăm sóc và Bảo tồn Động vật</strong></p>
+                    <p style="text-align:justify;">Du khách có thể dã ngoại, dạo bộ hoặc nghỉ ngơi sinh thái ngay trong rừng. Không chỉ vậy, vườn thú Vinpearl Safari còn được sử dụng làm nơi để các nhà nghiên cứu sinh vật thực hiện các cuộc nghiên cứu khoa học.</p>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-                        <div class="services-img" style="background-image: url({{ asset('image') }}/vinpearl/kid.jpg)"></div>
-                        <div class="desc">
-                            <h3>Kid Club</h3>
-                        </div>
-                    </a>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-golf.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Sân golf 27 lỗ tiêu chuẩn quốc tế</strong></p>
+                    <p style="text-align:justify;">Đối với giới thượng lưu, một dự án nghỉ dưỡng đẳng cấp sẽ không thể thiếu được hệ thống sân golf. Sân golf với 27 lỗ đạt tiêu chuẩn quốc tế hướng thẳng ra biển mang lại cho những người chơi cảm giác thú vị.</p>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-                        <div class="services-img" style="background-image: url({{ asset('image') }}/vinpearl/gym.jpg)"></div>
-                        <div class="desc">
-                            <h3>Gym Sports</h3>
-                        </div>
-                    </a>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/spa.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Khu chăm sóc sắc đẹp Vincharm Spa</strong></p>
+                    <p style="text-align:justify;">Đi nghỉ dưỡng tất nhiên không thể thiếu dịch vụ làm đẹp. Cả cánh mày râu và chị em phụ nữ đều có thể tham gia với nhiều dịch vụ làm đẹp, chăm sóc cơ thể như gym, spa cao cấp, và phòng tập theo yêu cầu.</p>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-                        <div class="services-img" style="background-image: url({{ asset('image') }}/vinpearl/event.jpg)"></div>
-                        <div class="desc">
-                            <h3>Hội trường sự kiện</h3>
-                        </div>
-                    </a>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/nha-hang.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Hệ thống nhà hàng ẩm thực cao cấp</strong></p>
+                    <p style="text-align:justify;">Hệ thống nhà hàng ẩm thực cao cấp. Những nhà hàng mang phong cách ẩm thực Âu – Á cao cấp sẽ mang lại cho Quý khách cảm nhận về một nơi có phong cách ẩm thực phong phú và ấn tượng nhất.</p>
                 </div>
-                <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-                        <div class="services-img" style="background-image: url({{ asset('image') }}/vinpearl/spa.jpg)"></div>
-                        <div class="desc">
-                            <h3>Massage & Spa</h3>
-                        </div>
-                    </a>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/ho-boi.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Hệ thống bể bơi cao cấp ngoài trời</strong></p>
+                    <p style="text-align:justify;"></p>
+                </div>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/24.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">Khu Phố Mua Sắm Sầm Uất</strong></p>
+                    <p style="text-align:justify;"></p>
+                </div>
+                <div class="col-sm-4">
+                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinmec.jpg" alt=""></p>
+                    <p><strong style="text-transform:uppercase;">BỆNH VIỆN QUỐC TẾ 5 SAO VINMEC</strong></p>
+                    <p style="text-align:justify;"></p>
                 </div>
             </div>
         </div>
@@ -240,7 +288,7 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                     <p class="colorlib-lead">Vui lòng gọi chúng tôi để được tư vấn</p>
-                    <p><a href="tel:0903312788" class="btn btn-primary btn-learn">Bấm gọi! - 090.331.27.88</a></p>
+                    <p><a href="tel:0903312788" class="btn btn-primary btn-learn">Bấm gọi! - 090.186.39.99</a></p>
                 </div>
             </div>
         </div>
