@@ -12,17 +12,26 @@
 */
 
 Route::get('/', function () {
-    return redirect('/vn');
+    return view('welcome');
+});
+Route::group(['prefix' => 'vincity'], function () {
+    Route::group(['prefix' => 'en'], function () {
+        Route::get('/', function () {
+            return view('client.en.page.home');
+        })->name('vincity.en');
+    });
+
+    Route::group(['prefix' => 'vn'], function () {
+        Route::get('/', function () {
+            return view('client.vn.page.home');
+        })->name('vincity.vn');
+    });
 });
 
-Route::group(['prefix' => 'en'], function () {
-    Route::get('/', function () {
-        return view('client.en.page.home');
-    })->name('en');
-});
-
-Route::group(['prefix' => 'vn'], function () {
-    Route::get('/', function () {
-        return view('client.vn.page.home');
-    })->name('vn');
+Route::group(['prefix' => 'vinpearl'], function () {
+    Route::group(['prefix' => 'vn'], function () {
+        Route::get('/', function () {
+            return view('vinpearl.vn.page.home');
+        })->name('vinpearl.vn');
+    });
 });

@@ -3,7 +3,7 @@
     <aside id="colorlib-hero" class="js-fullheight">
         <div class="flexslider js-fullheight">
             <ul class="slides">
-                <li style="background-image: url({{ asset('client') }}/images/img_bg_1.jpg);">
+                <li style="background-image: url({{ asset('image') }}/slider/new_4.JPG);">
                     <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -15,7 +15,7 @@
                         </div>
                     </div>
                 </li>
-                <li style="background-image: url({{ asset('client') }}/images/img_bg_2.jpg);">
+                <li style="background-image: url({{ asset('image') }}/slider/new_6.JPG);">
                     <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -27,7 +27,7 @@
                         </div>
                     </div>
                 </li>
-                <li style="background-image: url({{ asset('client') }}/images/img_bg_3.jpg);">
+                <li style="background-image: url({{ asset('image') }}/slider/new_9.JPG);">
                     <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -47,18 +47,18 @@
         <div class="colorlib-narrow-content">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-image: url({{ asset('image') }}/overview/apartment.jpg);">
+                    <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-size: contain;background-image: url({{ asset('image') }}/overview/new_2.JPG);">
                     </div>
                 </div>
                 <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                     <div class="about-desc">
                         <span class="heading-meta">Tổng Quan</span>
                         <h2 class="colorlib-heading">Tổng Quan Dự Án VinCity Quận 9</h2>
-                        <p>Tiếp nối thành công của dự án Vinhomes Central Park và Vinhomes Golden River tại trung tâm thành phố, tiếp nối dự án VinCity District 9, cung cấp nhà ở giá rẻ cho thu nhập trung bình. Với diện tích rộng 365ha, được trang bị đầy đủ tiện nghi cơ sở hạ tầng và thiết kế cao cấp, VinCity Quận 9 Thành phố Hồ Chí Minh là dự án được mong đợi nhiều nhất từ trước tới nay.</p>
+                        <p>Tiếp nối thành công của dự án Vinhomes Central Park và Vinhomes Golden River tại trung tâm thành phố, tiếp nối dự án VinCity District 9, cung cấp nhà ở giá rẻ cho thu nhập trung bình. Với diện tích rộng 360ha, được trang bị đầy đủ tiện nghi cơ sở hạ tầng và thiết kế cao cấp, VinCity Quận 9 Thành phố Hồ Chí Minh là dự án được mong đợi nhiều nhất từ trước tới nay.</p>
                         <p>Chủ đầu tư: Vingroup.</p>
                         <p>Tên Dự Án: VinCity Quận 9.</p>
-                        <p>Quy mô: 365ha.</p>
-                        <p>Số lượng căn hộ: hơn 100.000 căn.</p>
+                        <p>Quy mô: 360ha.</p>
+                        <p>Số lượng căn hộ: hơn 44.000 căn.</p>
                         <p>Sản phẩm dự án: căn hộ officetel, căn hộ phổ biến, căn hộ thương mại, trung tâm thương mại, khu vực công cộng.</p>
                         <p>Địa điểm: Đường Nguyễn Xiển, Phường Long Thạnh Mỹ, Quận 9, Thành phố Hồ Chí Minh.</p>
                     </div>
@@ -85,7 +85,17 @@
                 </div>
 
                 <div class="col-md-6">
-                    <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-image: url({{ asset('image') }}/location/location.png);">
+                    <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-size: contain;background-image: url({{ asset('image') }}/location/new_11.JPG);">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-size: contain;background-image: url({{ asset('image') }}/location/new_1.JPG);">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-size: contain;background-image: url({{ asset('image') }}/location/new_13.JPG);">
                     </div>
                 </div>
             </div>
@@ -384,7 +394,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 animate-box" data-animate-effect="fadeInLeft">
                     <div class="blog-entry">
-                        <a href="#design" class="blog-img"><img src="{{ asset('image') }}/design/image1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+                        <a href="#design" class="blog-img"><img src="{{ asset('image') }}/design/new_10.JPG" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
                         <div class="desc">
                             <span><small>April 14, 2018 </small> | <small> Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
                             <h3><a href="#design">Căn hộ chung cư cao cấp Citrine Apartment</a></h3>
@@ -394,7 +404,16 @@
             </div>
 
             <div class="row">
-                <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="col-md-12 col-sm-12 animate-box" data-animate-effect="fadeInLeft">
+                    <div class="blog-entry">
+                        <a href="#design" class="blog-img"><img src="{{ asset('image') }}/design/new_15.JPG" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+                        <div class="desc">
+                            <span><small>April 14, 2018 </small> | <small> Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+                            <h3><a href="#design">Căn hộ chung cư cao cấp Citrine Apartment</a></h3>
+                        </div>
+                    </div>
+                </div>
+                {{-- <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
                     <div class="blog-entry">
                         <a href="#design" class="blog-img"><img src="{{ asset('image') }}/design/image2.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
                         <div class="desc">
@@ -420,10 +439,19 @@
                             <h3><a href="#design">Căn hộ chung cư cao cấp Citrine Apartment</a></h3>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <div class="row">
-                <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="col-md-12 col-sm-12 animate-box" data-animate-effect="fadeInLeft">
+                    <div class="blog-entry">
+                        <a href="#design" class="blog-img"><img src="{{ asset('image') }}/design/new_16.JPG" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+                        <div class="desc">
+                            <span><small>April 14, 2018 </small> | <small> Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+                            <h3><a href="#design">Căn hộ chung cư cao cấp Citrine Apartment</a></h3>
+                        </div>
+                    </div>
+                </div>
+                {{-- <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
                     <div class="blog-entry">
                         <a href="#design" class="blog-img"><img src="{{ asset('image') }}/design/image5.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
                         <div class="desc">
@@ -449,7 +477,7 @@
                             <h3><a href="#design">Căn Hộ Loại 3 Phòng Ngủ</a></h3>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>

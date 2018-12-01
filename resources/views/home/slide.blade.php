@@ -2,35 +2,35 @@
 <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
     <h1 id="colorlib-logo">
         <a href="#">
-            <img height="100" width="200" src="{{ asset('image') }}/logo-vincity.png"/>
+            <img height="100" width="200" src="{{ asset('image') }}/logo.jpg"/>
         </a>
     </h1>
     <nav id="colorlib-main-menu" role="navigation">
         <ul id="mainNav">
-            <li class="colorlib-active"><a href="{{ url('/') }}">Home</a></li>
-            <li><a href="#overview">Overview</a></li>
-            <li><a href="#location">Location</a></li>
+            <li class="colorlib-active"><a href="#colorlib-hero">VuongPhatLand</a></li>
+            <li><a href="#overview">Các dự án</a></li>
+            {{-- <li><a href="#location">Location</a></li>
             <li><a href="#services">Utilities</a></li>
             <li><a href="#progress">Progress</a></li>
             <li><a href="#design">Design</a></li>
             <li><a href="#payment">Payment</a></li>
-            <li><a href="#get-in-touch">Contact</a></li>
+            <li><a href="#get-in-touch">Contact</a></li> --}}
         </ul>
-        <div class="colorlib-narrow-content">
+        {{-- <div class="colorlib-narrow-content">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-6">
-                    <a href="{{ route('vincity.vn') }}">
+                    <a href="{{ route('vn') }}">
                         <img src="{{ asset('image') }}/vietnam.png"/>
                     <a href="#">
                 </div>
     
                 <div class="col-md-6 col-sm-6 col-xs-6">
-                    <a href="{{ route('vincity.en') }}">
+                    <a href="{{ route('en') }}">
                         <img src="{{ asset('image') }}/uk.png"/>
                     </a>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </nav>
 
     <div class="colorlib-footer">

@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Vincity</title>
-	<link rel="icon" href="{{ asset('image') }}/logo-vincity.png"> 
+	<link rel="icon" href="{{ asset('image') }}/vinpearl/logo.png"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -52,7 +52,7 @@
 	</head>
 	<body>
         <div id="colorlib-page">
-			@include('client.vn.partials.slide')
+			@include('vinpearl.vn.partials.slide')
 			
 			<div id="colorlib-main">
 				@yield('content')

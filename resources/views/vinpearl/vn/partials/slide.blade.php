@@ -2,7 +2,7 @@
 <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
     <h1 id="colorlib-logo">
         <a href="#">
-            <img height="100" width="200" src="{{ asset('image') }}/logo-vincity.png"/>
+            <img height="100" width="200" src="{{ asset('image') }}/vinpearl/logo.png"/>
         </a>
     </h1>
     
@@ -12,13 +12,13 @@
             <li><a href="#overview">Tổng Quan</a></li>
             <li><a href="#location">Vị Trí</a></li>
             <li><a href="#services">Tiện Ích</a></li>
-            <li><a href="#progress">Tiến Độ</a></li>
-            <li><a href="#design">Thiết Kế</a></li>
+            <li><a href="#progress">Tại sao chọn Shophouse</a></li>
+            {{-- <li><a href="#design">Thiết Kế</a></li> --}}
             <li><a href="#payment">Phương thức thanh toán</a></li>
             <li><a href="#get-in-touch">Liên hệ</a></li>
         </ul>
 
-        <div class="colorlib-narrow-content">
+        {{-- <div class="colorlib-narrow-content">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <a href="{{ route('vincity.vn') }}">
@@ -32,7 +32,7 @@
                     </a>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </nav>
 
     <div class="colorlib-footer">
