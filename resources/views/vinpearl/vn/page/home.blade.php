@@ -157,47 +157,47 @@
             
             <div class="row" style="text-align:center;">
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-casino.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/vinpearl-casino.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Casino đẳng cấp Quốc Tế</strong></p>
                     <p style="text-align:justify;">Casino Phú Quốc là một trong những điểm nhấn đẳng cấp và khác biệt với những dự án biệt thự biển nghỉ dưỡng khác. Việc xây dựng Casino sẽ là nguồn hút du khách dồi dào cả trong và ngoài nước.</p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-land.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/vinpearl-land.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Khu vui chơi giải trí Vinpearl Land</strong></p>
                     <p style="text-align:justify;">Thiên đường vui chơi giải trí với đầy đủ các hoạt động vui chơi thú vị, xa xỉ (thủy cung, công viên nước, cối xay gió, đĩa quay siêu tốc,…) giúp quý khách cùng gia đình tận hưởng những thời khắc vui vẻ nhất.</p>
                     </div>
                     <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-safari.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/vinpearl-safari.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Công viên Chăm sóc và Bảo tồn Động vật</strong></p>
                     <p style="text-align:justify;">Du khách có thể dã ngoại, dạo bộ hoặc nghỉ ngơi sinh thái ngay trong rừng. Không chỉ vậy, vườn thú Vinpearl Safari còn được sử dụng làm nơi để các nhà nghiên cứu sinh vật thực hiện các cuộc nghiên cứu khoa học.</p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinpearl-golf.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/vinpearl-golf.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Sân golf 27 lỗ tiêu chuẩn quốc tế</strong></p>
                     <p style="text-align:justify;">Đối với giới thượng lưu, một dự án nghỉ dưỡng đẳng cấp sẽ không thể thiếu được hệ thống sân golf. Sân golf với 27 lỗ đạt tiêu chuẩn quốc tế hướng thẳng ra biển mang lại cho những người chơi cảm giác thú vị.</p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/spa.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/spa.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Khu chăm sóc sắc đẹp Vincharm Spa</strong></p>
                     <p style="text-align:justify;">Đi nghỉ dưỡng tất nhiên không thể thiếu dịch vụ làm đẹp. Cả cánh mày râu và chị em phụ nữ đều có thể tham gia với nhiều dịch vụ làm đẹp, chăm sóc cơ thể như gym, spa cao cấp, và phòng tập theo yêu cầu.</p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/nha-hang.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/nha-hang.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Hệ thống nhà hàng ẩm thực cao cấp</strong></p>
                     <p style="text-align:justify;">Hệ thống nhà hàng ẩm thực cao cấp. Những nhà hàng mang phong cách ẩm thực Âu – Á cao cấp sẽ mang lại cho Quý khách cảm nhận về một nơi có phong cách ẩm thực phong phú và ấn tượng nhất.</p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/ho-boi.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/ho-boi.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Hệ thống bể bơi cao cấp ngoài trời</strong></p>
                     <p style="text-align:justify;"></p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/24.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/24.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">Khu Phố Mua Sắm Sầm Uất</strong></p>
                     <p style="text-align:justify;"></p>
                 </div>
                 <div class="col-sm-4">
-                    <p><img src="http://vinpearlshophousephuquoc.com/upload/images/tien-ich/vinmec.jpg" alt=""></p>
+                    <p><img src="{{ asset('image') }}/vinpearl/vinmec.jpg" alt=""></p>
                     <p><strong style="text-transform:uppercase;">BỆNH VIỆN QUỐC TẾ 5 SAO VINMEC</strong></p>
                     <p style="text-align:justify;"></p>
                 </div>

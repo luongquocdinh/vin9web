@@ -88,7 +88,7 @@
                                 <div class="blog-entry">
                                     <a href="{{ route('vincity.vn') }}" class="blog-img"><img src="{{ asset('image') }}/slider/new_6.JPG" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
                                     <div class="desc">
-                                        <h3><a href="{{ route('vincity.vn') }}">Vinhomes Central Park và Vinhomes Golden River</a></h3>
+                                        <h3><a href="{{ route('vincity.vn') }}">VinCity Quận 9</a></h3>
                                     </div>
                                 </div>
                             </div>
