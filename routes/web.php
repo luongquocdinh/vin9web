@@ -35,3 +35,11 @@ Route::group(['prefix' => 'vinpearl'], function () {
         })->name('vinpearl.vn');
     });
 });
+
+Route::group(['prefix' => 'condotel'], function () {
+    Route::group(['prefix' => 'vn'], function () {
+        Route::get('/', function () {
+            return view('condotel.vn.page.home');
+        })->name('condotel.vn');
+    });
+});

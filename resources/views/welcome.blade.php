@@ -60,6 +60,25 @@
 					<div class="colorlib-narrow-content">
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                                <span class="heading-meta">VINPEARL CONDOTEL PHÚ QUỐC</span>
+                                <h2 class="colorlib-heading">VINPEARL CONDOTEL PHÚ QUỐC</h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 col-sm-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+                                <div class="blog-entry">
+                                    <a href="{{ route('condotel.vn') }}" class="blog-img" style="height: 300px;"><img src="{{ asset('image') }}/condotel/banner.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+                                    <div class="desc">
+                                        <h3><a href="{{ route('condotel.vn') }}">VINPEARL CONDOTEL PHÚ QUỐC</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+					</div>
+
+					<div class="colorlib-narrow-content">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                 <span class="heading-meta">SHOPHOUSE VINPEARL PHÚ QUỐC</span>
                                 <h2 class="colorlib-heading">SHOPHOUSE VINPEARL PHÚ QUỐC</h2>
                             </div>
